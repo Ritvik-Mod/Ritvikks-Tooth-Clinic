@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /_build/
+Disallow: /_partials/
+Disallow: /old-site-backup/
+
+Sitemap: https://ritvikkstoothclinic.com/sitemap.xml
